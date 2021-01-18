@@ -1,0 +1,10 @@
+.col-sm-8 col-sm-offset-2{
+    background-image: url(../image.png);
+    background-color: aqua;
+
+}
+
+.jumbotron{
+    background-image: url(../image.png);
+    background-color: aqua;
+}
